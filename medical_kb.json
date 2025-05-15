@@ -1,0 +1,20 @@
+{
+    "responses": [
+        {
+            "keywords": ["headache", "head", "pain", "migraine"],
+            "response": "Based on your mention of headache, here are some possible causes:\n1. Tension or stress\n2. Dehydration\n3. Lack of sleep\n4. Migraine\n\nRecommendations:\n- Rest in a quiet, dark room\n- Stay hydrated\n- Take over-the-counter pain relievers if needed\n- If symptoms persist or are severe, please consult a healthcare provider."
+        },
+        {
+            "keywords": ["fever", "temperature", "hot", "chills"],
+            "response": "If you're experiencing fever, here's what you should know:\n1. Normal body temperature is around 98.6°F (37°C)\n2. Fever is often a sign your body is fighting infection\n\nRecommendations:\n- Rest and stay hydrated\n- Take fever reducers if temperature is above 101°F (38.3°C)\n- Seek immediate medical attention if fever is above 103°F (39.4°C) or lasts more than 3 days"
+        },
+        {
+            "keywords": ["cough", "coughing", "chest"],
+            "response": "For cough symptoms:\n1. Could be due to:\n   - Common cold\n   - Allergies\n   - Bronchitis\n   - Other respiratory conditions\n\nRecommendations:\n- Stay hydrated\n- Use honey for soothing (if above 1 year old)\n- Consider over-the-counter cough medicine\n- See a doctor if cough persists over 2 weeks or is severe"
+        },
+        {
+            "keywords": ["stomach", "nausea", "vomiting", "diarrhea"],
+            "response": "For stomach-related symptoms:\n1. Possible causes:\n   - Food poisoning\n   - Stomach virus\n   - Indigestion\n\nRecommendations:\n- Stay hydrated with small sips of water\n- Try the BRAT diet (Bananas, Rice, Applesauce, Toast)\n- Avoid dairy and fatty foods\n- Seek medical attention if symptoms persist over 48 hours or if there's severe pain"
+        }
+    ]
+} 
